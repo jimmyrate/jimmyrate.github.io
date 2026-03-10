@@ -1,5 +1,3 @@
-## 📢 Latest News
-
 * **[Mar 2026]** 🚀 **MolDeriveX is officially open-sourced!** Our core methodology paper, ***"Artificial intelligence expands expert knowledge in antibiotic derivatization"***, is currently under review at *Nature Machine Intelligence*. 
 We are thrilled to release the complete codebase of our synergistic local-global generative framework, empowering the community to combat the escalating AMR crisis. 
 
