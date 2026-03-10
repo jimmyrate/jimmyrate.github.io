@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-03 00:00:00-0000
+date: 2026-02-21 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-:sparkles: **PseMix**, [Pseudo-bag Mixup Augmentation for WSI Classification](https://ieeexplore.ieee.org/abstract/document/10385148), is accepted by IEEE Transaction on Medical Imaging.
+🎉 Our work **STEPH** (Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis) is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026). As a continuation of [CROPKT](https://arxiv.org/abs/2508.13482), this work presents an efficient solution: prognosis knowledge transfer via model merging. Paper and codes will be released soon. Stay tuned.
