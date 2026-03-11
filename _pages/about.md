@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: left
-  image: 
-  image_circular: false # crops the image to make it circular
+  image: me.jpg
+  image_circular: true # crops the image to make it circular
   more_info: 
 
 news: true  # includes a list of news items
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate at the school of computer science, [HNU](https://www.hnu.edu.cn), under supervision of Prof.[Xiangxiang Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ). Previously, I obtained my M.E. degree at the school of computer science, [HNU](https://www.hnu.edu.cn) in 2022, working with Prof.[Lijun Cai](https://csee.hnu.edu.cn/people/cailijun).  I earned my B.E. degree from Hengyang Normal University in 2019. 
+I am a Ph.D. candidate at the school of computer science, [Hunan university](https://www.hnu.edu.cn), under supervision of Prof.[Xiangxiang Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ). Previously, I obtained my M.E. degree at the school of computer science, [Hunan university](https://www.hnu.edu.cn) in 2022, working with Prof.[Lijun Cai](https://csee.hnu.edu.cn/people/cailijun).  I earned my B.E. degree from Hengyang Normal University in 2019. 
 
 ***Research Interest***: My research interests cover many aspects of machine learning and its applications in drug discovery.
 - **Machine Learning**: 1) **Language Model**, its applications in drug property design ; 2) **Multi-objective optimization algorithm**, with applications in drug design conflict tasks.
