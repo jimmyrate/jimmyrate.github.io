@@ -135,7 +135,11 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
-
+          {% if entry.author_notes -%}
+            <div class="periodical">
+              {{ entry.author_notes | strip }}
+            </div>
+          {%- endif %}
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
