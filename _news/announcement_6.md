@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-**[Mar 2026]** 🚀 **MolDeriveX is officially open-sourced!** Our core methodology paper, ***"Artificial intelligence expands expert knowledge in antibiotic derivatization"***. 
+🚀 **MolDeriveX is officially open-sourced!** Our core methodology paper, ***"Multi-objective generative algorithm enables broad-spectrum antibiotic derivatization"***. 
 We are thrilled to release the complete codebase of our synergistic local-global generative framework, empowering the community to combat the escalating AMR crisis. 
 
 **🔥 Highlighted Updates in this Release:**
