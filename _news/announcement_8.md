@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our work **CAML** (A Conflict-Aware Molecular Language Model Merging Framework for Multi-Constraint Molecular Generation) is accepted to [ACL 2026](https://2026.aclweb.org/) main conference! 🧬🤖. We introduce a novel game-theoretic framework that uses SACMA-ES to find the Nash Equilibrium among expert models, resolving property conflicts efficiently without re-training. 
+🎉 Our work **CAML** (A Conflict-Aware Molecular Language Model Merging Framework for Multi-Constraint Molecular Generation) was accepted by **ACL 2026** (Main Conference, Long Paper)! It links language-model parameter composition to generated molecular properties and jointly controls four predicted properties without further model training. **Update (October 2026):** the [published paper](https://aclanthology.org/2026.acl-long.896/) is available.

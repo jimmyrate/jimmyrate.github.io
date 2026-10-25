@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our work **STEPH** (Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis) is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026). As a continuation of [CROPKT](https://arxiv.org/abs/2508.13482), this work presents an efficient solution: prognosis knowledge transfer via model merging. Paper and codes will be released soon. Stay tuned.
+🎉 Our work **STEPH** (Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis) was accepted by **CVPR 2026**. It studies efficient knowledge transfer for whole-slide image prognosis. **Update (October 2026):** the [published paper](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Sparse_Task_Vector_Mixup_with_Hypernetworks_for_Efficient_Knowledge_Transfer_CVPR_2026_paper.html) and [code](https://github.com/liupei101/STEPH) are available.

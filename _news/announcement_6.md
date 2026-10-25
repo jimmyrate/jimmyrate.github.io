@@ -5,10 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 **MolDeriveX is officially open-sourced!** Our core methodology paper, ***"Multi-objective generative algorithm enables broad-spectrum antibiotic derivatization"***. 
-We are thrilled to release the complete codebase of our synergistic local-global generative framework, empowering the community to combat the escalating AMR crisis. 
-
-**🔥 Highlighted Updates in this Release:**
-* 🔬 **Large-Scale Validation:** Open-sourced the evaluation pipelines for 260 Gram-positive antibiotics, demonstrating performance that consistently outperforms state-of-the-art baselines.
-* 💡 **Beyond Human Intuition:** Included the Linezolid optimization case study, showcasing MolDeriveX's ability to autonomously rediscover eNTRy rules and identify novel, biologically validated motifs.
-* 🧬 **Physics-Verified Pipelines:** Integrated configurations for all-atom molecular dynamics (MD) simulations to validate outer membrane permeability and target engagement.
+🚀 **Historical code release:** our earlier work, "Multi-objective generative algorithm enables broad-spectrum antibiotic derivatization," was open-sourced. This announcement is retained as a historical record; see the [current publication and manuscript list]({{ '/publications/' | relative_url }}) for up-to-date titles and submission statuses.
